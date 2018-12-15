@@ -40,6 +40,7 @@ packages:
 # (e.g., acme-missiles-0.3)
 extra-deps:
 - string-random-0.1.0.0
+- katip-0.7.0.0
 
 
 # Override default flag values for local packages and extra-deps
